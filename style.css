@@ -275,14 +275,18 @@ margin-left: 166px;
 }
 
    
-.block-holder{
-
+.overlay{
+    background-color: #000;
+    opacity: 0.8;
 }
 
+
 .black-block {
+    margin-top: 122px;
     background-image: url(bg2.jpg);
-    filter: brightness(20%);
-    width: 100%;
+   
+    Background: url(bg2.jpg ) no-repeat;
+    Background-size: cover;
 
 } 
 
